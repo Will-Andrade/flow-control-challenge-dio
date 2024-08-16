@@ -37,7 +37,7 @@ $ git clone git@github.com:Will-Andrade/flow-control-challenge-dio.git
 To compile and run the application, use the following commands:
 
 ```bash
-$ cd counter-application
+$ cd flow-control-challenge-dio
 $ javac -d bin src/br/com/andraDev/main/java/*.java src/br/com/andraDev/main/java/exception/*.java
 $ java -cp bin br.com.andraDev.main.java.Counter
 ```

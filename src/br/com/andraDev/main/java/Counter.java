@@ -34,7 +34,7 @@ public class Counter {
     int count = secondParam - firstParam;
 
     for (int number = 1; number <= count; number++) {
-      System.out.println(STR."Printing number \{number}");
+      System.out.println(String.format("Printing number %d", number));
     }
   }
 }

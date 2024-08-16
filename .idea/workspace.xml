@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddac81be-cb3b-4e0c-8dba-5405f30c010a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flow-control.iml" afterDir="false" />
+    <list default="true" id="ddac81be-cb3b-4e0c-8dba-5405f30c010a" name="Changes" comment="feat: challenge finished">
+      <change beforePath="$PROJECT_DIR$/src/br/com/andraDev/main/java/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/andraDev/main/java/Counter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Will-Andrade"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Will-Andrade/flow-control-challenge-dio.git",
+    "accountId": "ab70133b-cef6-4ad5-8d6e-d849ad936289"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2kkhhHxgHqkjqjIn8WlwtPLLLyx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,7 +54,7 @@
     "JUnit.br.com.andraDev.test.java in flow-control.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/willian_andrade/andraDev/flow-control/lib/junit-platform-console-standalone-1.10.3.jar",
     "project.structure.last.edited": "Modules",
@@ -159,6 +165,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723833601705</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: challenge finished">
+      <option name="closed" value="true" />
+      <created>1723836926215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723836926215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: challenge finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: challenge finished" />
   </component>
 </project>
