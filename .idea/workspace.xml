@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddac81be-cb3b-4e0c-8dba-5405f30c010a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flow-control.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2kkhhHxgHqkjqjIn8WlwtPLLLyx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Counter.executor": "Run",
+    "JUnit.CounterTest.testEqualParams.executor": "Run",
+    "JUnit.CounterTest.testInvalidNegativeParams.executor": "Run",
+    "JUnit.CounterTest.testNegativeParamsWithValidRange.executor": "Run",
+    "JUnit.CounterTest.testValidInput.executor": "Run",
+    "JUnit.CounterTest.textInvalidInput.executor": "Run",
+    "JUnit.br.com.andraDev.test.java in flow-control.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/willian_andrade/andraDev/flow-control/lib/junit-platform-console-standalone-1.10.3.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.br.com.andraDev.test.java in flow-control">
+    <configuration name="CounterTest.testEqualParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flow-control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.andraDev.test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.andraDev.test.java" />
+      <option name="MAIN_CLASS_NAME" value="br.com.andraDev.test.java.CounterTest" />
+      <option name="METHOD_NAME" value="testEqualParams" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterTest.testInvalidNegativeParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flow-control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.andraDev.test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.andraDev.test.java" />
+      <option name="MAIN_CLASS_NAME" value="br.com.andraDev.test.java.CounterTest" />
+      <option name="METHOD_NAME" value="testInvalidNegativeParams" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterTest.testNegativeParamsWithValidRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flow-control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.andraDev.test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.andraDev.test.java" />
+      <option name="MAIN_CLASS_NAME" value="br.com.andraDev.test.java.CounterTest" />
+      <option name="METHOD_NAME" value="testNegativeParamsWithValidRange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterTest.textInvalidInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flow-control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.andraDev.test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.andraDev.test.java" />
+      <option name="MAIN_CLASS_NAME" value="br.com.andraDev.test.java.CounterTest" />
+      <option name="METHOD_NAME" value="textInvalidInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.andraDev.test.java in flow-control" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flow-control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.andraDev.test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.andraDev.test.java" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.br.com.andraDev.test.java in flow-control" />
+        <item itemvalue="JUnit.CounterTest.testInvalidNegativeParams" />
+        <item itemvalue="JUnit.CounterTest.testNegativeParamsWithValidRange" />
+        <item itemvalue="JUnit.CounterTest.textInvalidInput" />
+        <item itemvalue="JUnit.CounterTest.testEqualParams" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddac81be-cb3b-4e0c-8dba-5405f30c010a" name="Changes" comment="" />
+      <created>1723833601705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723833601705</updated>
+    </task>
+    <servers />
+  </component>
+</project>
