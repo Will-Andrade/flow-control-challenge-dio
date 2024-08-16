@@ -73,4 +73,4 @@ I am content with the project as it is but something nice to add would be:
 - Add input validation for non-integer values.
 
 ## Credits
-The idea for this project and starter Counter class came from the Digital Innovation One (DIO) Java with Spring Boot bootcamp. The original challenge features can be read [here](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo). (Brazillian Portuguese README 🇧🇷) but other than that, all code was created by me, Willian Andrade.
+The idea for this project and starter Counter class came from the Digital Innovation One (DIO) Java with Spring Boot bootcamp. The original challenge features can be read [here](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo) (Brazillian Portuguese README 🇧🇷) but other than that, all code was created by me, Willian Andrade.
